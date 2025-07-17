@@ -13,12 +13,12 @@ body {
 /* Container utama */
 .container {
   background-color: #666;
-  padding: 40px;
-  border-radius: 15px;
+  padding: 70px;
+  border-radius: 25px;
   text-align: center;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-  width: 90%;
-  max-width: 400px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+  width: 120%;
+  max-width: 600px;
 }
 
 /* Logo */
