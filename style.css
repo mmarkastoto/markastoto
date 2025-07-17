@@ -1,1 +1,64 @@
+/* Reset dan tampilan utama */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fdfdfd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+/* Container utama */
+.container {
+  background-color: #666;
+  padding: 40px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  width: 90%;
+  max-width: 400px;
+}
+
+/* Logo */
+.container img.logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+/* Judul */
+.container h1 {
+  color: gold;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Tombol */
+.button {
+  background-color: gold;
+  border: none;
+  color: black;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #e6c200;
+}
+
+/* Banner GIF */
+.gif-banner {
+  margin-top: 20px;
+  width: 100%;
+  border-radius: 10px;
+}
 
