@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markastoto-avj.pages.dev/sitemap.xml
